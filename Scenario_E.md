@@ -3,35 +3,19 @@ Hi **Jake**!
 We appreciate that you reached out to us regarding your [Intro  to Android Development](https://courses.codepath.org/snippets/and101/syllabus) application. We are sorry to hear that you are having problems with this. We totally understand how overwhelming the process could be at times. 
 
 In order to complete your application, you need to [complete the prework project](https://courses.codepath.org/snippets/and101/prework). The details of how and where to submit are clearly stated there. The prework has few steps:
-* Part A –  Running an Android App
-1. Check Android Studio Requirements
 
-2. Install Android Studio
+Set-up your android environment.
+Build initial todo app.
+Submit todo app for review via github.
+Add edit functionality to todo app.
+Extend your todo app, improve UI, add features.
+The details to each of these steps can be found here. We have made this guide as clear and detailed as possible. Please read carefully the instructions before submitting.
 
-3. Import the Trackr Sample App
+Let me remind you of your time commitment for this course:
 
-4. Wait for Gradle Build to Complete
-
-5. Set Up Android Emulator or Connect Your Device
-
-6. Run the Trackr App in Emulator
-
-7. Record Your App in Action
-
-8. Fill Out the Submission Template – Part A
-
-* Part B –  Designing an Android App
-9. Answer Design Questions in Template
-
-10. Create and Add App Visual
-
-11. Complete the Submission Template – Part B
-
-* Final Steps
-12. Join Prework Support Workspace (if needed)
-
-13. Submit Your Google Doc and Video URL via Application Form
-
+In-person (Virtual) Class Sessions: Classes meet once or twice per week for one to two hours per session for this semester.
+Outside of class times: Youshould plan to spend 5-10 hours outside of class to work on weekly assignments and completing the final group project.
+Classes this semester will start on January 4, 2023. Please refer here as to the schedules for each of your class.
 We have made this guide as clear and detailed as possible. Please read carefully the instructions before submitting.  
 
 We hope this response is helpful to you. Once again, thank you for reaching out to us. 
