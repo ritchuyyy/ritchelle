@@ -1,13 +1,16 @@
 Hi **Dennis**!
 
-Thank you for reaching out to us about your tech fellow application.
-We have read and understood your concerns. 
+Thank you for reaching out.
 
-Here in **CodePath**, we usually wait for **two completed admission requirements** per partner school before they can start with their tech fellow training. This is a close to a month process. We understand this can be very long for you but this is part of the program.
+We understand that life can sometimes get in the way, and we appreciate your willingness to take responsibility and make up for the missed coursework. However, per our course policy, we have to enforce deadlines and participation requirements to ensure a consistent and effective experience for everyone.
 
-We know that you are very excited to start with your training. As for the moment, please make use of the waiting time to prepare yourself for the upcoming training. 
+Since you were withdrawn due to non-compliance and we did not receive a response when we initially reached out, your removal from the course is final.
 
-Regardless, your application is complete. Congratulations on being qualified to join in our Tech Fellow Program. 
+That said, we value your interest in learning and your commitment to improve. You still have lifetime access to the course material using the GitHub account you signed up with. 
+
+If you're interested in joining a future class, we encourage you to apply again. In your application, you can note your previous enrollment and your renewed commitment—we’ll take that into account.
+
+Let us know if you have any questions about accessing the materials or reapplying in the future.
 
 Sincerely,<br>
 **Ritchelle**
