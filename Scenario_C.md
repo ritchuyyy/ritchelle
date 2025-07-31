@@ -6,7 +6,7 @@ As much as we wanted to include you in our admissions, we regret to inform you t
 
 For now, we can offer you some things:
 1. You might want to read on tips and guidelines that you might find helpful in our [high-level software interview guide](https://hackmd.io/@nesquena/HJN9k17sm?type=view). 
-2. Also, please feel free to access our [resources page](https://www.codepath.org/dev-resources) for helpful guides.
+2. Please feel free to access our [resources page](https://www.codepath.org/dev-resources) for helpful guides.
 3. Lastly, you can join our **mailing list** to learn more about CodePath's courses, job advice and even virtual events that you might be interested in. You can sign up [here](https://www.codepath.org/join-our-mailing-list). 
 
 We hope for the best in your endeavors. 
