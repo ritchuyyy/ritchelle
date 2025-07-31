@@ -8,8 +8,6 @@ Since you were withdrawn due to non-compliance and we did not receive a response
 
 That said, we value your interest in learning and your commitment to improve. You still have lifetime access to the course material using the GitHub account you signed up with. 
 
-If you're interested in joining a future class, we encourage you to apply again. In your application, you can note your previous enrollment and your renewed commitment—we’ll take that into account.
-
 Let us know if you have any questions about accessing the materials or reapplying in the future.
 
 Sincerely,<br>
