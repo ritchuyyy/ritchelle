@@ -10,7 +10,7 @@ In order to complete your application, you need to [complete the prework project
 4.   Add edit functionality to todo app.
 5.   Extend your todo app, improve UI, add features.
 
-The details to each of these steps can be found [here](https:/https://courses.codepath.org/snippets/android_university/prework/). We have made this guide as clear and detailed as possible. Please read carefully the instructions before submitting. 
+The details to each of these steps can be found [here](https://courses.codepath.org/snippets/and101/prework). We have made this guide as clear and detailed as possible. Please read carefully the instructions before submitting. 
 
 Let me remind you of your time commitment for this course:
 
